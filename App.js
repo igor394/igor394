@@ -22,7 +22,6 @@ const catNav = [
 function App() {
   return (
     <div>
-      <p>git test1</p>
       <Header nav={mainNav} />
       <Router>
         <Switch>
